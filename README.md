@@ -1,3 +1,5 @@
 # 计算机开放电子书归档
 
-已废弃，请访问 [it-ebooks/blog](https://github.com/it-ebooks/blog)。
++   [2018](2018.md)
++   [2017](2017.md)
++   [2016](2016.md)
